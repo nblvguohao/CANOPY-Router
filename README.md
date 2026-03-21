@@ -185,7 +185,7 @@ Six evidence channels with dynamic gated routing:
 ```bibtex
 @article{lv2026canopy_router,
   title={CANOPY-Router: Context-Conditioned Evidence Routing for Interpretable Cancer Driver Gene Prioritization},
-  author={Lv, Guohao and Xia, Yingchun and Li, Xiaowei and Liu, Huichao and Zhu, Xiaolei and Yang, Shuai and Wang, Qingyong and Gu, Lichuan},
+  author={Lv, Guohao},
   journal={CAAI Artificial Intelligence Research},
   year={2026},
   note={Under review}
