@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+*.egg-info/
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Full TREE benchmark data (too large - see README for download links)
+data/TREE/
+
+# Model checkpoints and experiment outputs
+*.ckpt
+runs/
+logs/
+*.log
+tmp/
+temp/
+results/
+
+# Keep sample data and inputs (explicitly tracked)
+!data/sample/
+!data/msigdb/
+!inputs/

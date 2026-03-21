@@ -1,0 +1,27 @@
+# CANOPY-Router dependencies
+# Python >= 3.10 recommended; NumPy 2.x is NOT supported (use numpy<2.0)
+
+# Deep learning
+torch>=2.0.0
+torch-geometric>=2.4.0
+torch-scatter>=2.1.0
+torch-sparse>=0.6.15
+
+# Scientific computing
+numpy>=1.24.0,<2.0.0
+scipy>=1.10.0
+scikit-learn>=1.2.0
+
+# Data handling
+h5py>=3.8.0
+pandas>=1.5.0
+
+# Visualization (for figure generation scripts)
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Hyperparameter optimization (optional, for grid search scripts)
+optuna>=3.0.0
+
+# Utilities
+tqdm>=4.62.0
